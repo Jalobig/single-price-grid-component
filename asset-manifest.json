@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/single-price-grid-component/static/css/main.d6250d37.css",
+    "main.css": "/single-price-grid-component/static/css/main.dfcc2b44.css",
     "main.js": "/single-price-grid-component/static/js/main.6dc9e24d.js",
     "static/js/787.a333eff8.chunk.js": "/single-price-grid-component/static/js/787.a333eff8.chunk.js",
     "index.html": "/single-price-grid-component/index.html",
-    "main.d6250d37.css.map": "/single-price-grid-component/static/css/main.d6250d37.css.map",
+    "main.dfcc2b44.css.map": "/single-price-grid-component/static/css/main.dfcc2b44.css.map",
     "main.6dc9e24d.js.map": "/single-price-grid-component/static/js/main.6dc9e24d.js.map",
     "787.a333eff8.chunk.js.map": "/single-price-grid-component/static/js/787.a333eff8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6250d37.css",
+    "static/css/main.dfcc2b44.css",
     "static/js/main.6dc9e24d.js"
   ]
 }
