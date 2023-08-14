@@ -9,6 +9,7 @@
     transition: all .3s;
     font-style: inherit;
     &:hover{
+        cursor: pointer;
         transform: translateY(-.3rem);
         box-shadow: var(--shadow-button-hover);
     }
